@@ -1,4 +1,4 @@
-name: Prepare action
+name: Prepare_action
 
 # Controls when the workflow will run
 on:
