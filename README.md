@@ -1,7 +1,7 @@
 # My_repo
 
 Last Deploy:<br>
-<img src="https://github.com/SergeyKirakosyan/My_repo/Prepare_action/badge.svg?branch=master"><br> 
+<img src="https://github.com/SergeyKirakosyan/My_repo/deploy.yml/badge.svg?branch=master"><br> 
 
 
 
